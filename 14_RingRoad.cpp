@@ -47,3 +47,7 @@ int main(){
 
 	return 0;
 }
+
+
+//1. reverse edges to make graph connect
+//2. cycle--> if neighbour is not visited and not parent
